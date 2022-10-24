@@ -1,8 +1,5 @@
-This Repo contains files for the school project
-...................................................................
-
+This Repo contains files for the school project:
 Authors:
-..................................................................
 Martin KAMBUJI
 	2019016249@student.unza.zm
 Emmanuel Phiri
@@ -14,7 +11,6 @@ Ernest Sinyangwe
 
 
 2.14. Topic #14: ICT 1110 and ICT 3020 Video Timeline Marker
-.............................................................................................
 YouTube has become an increasingly popular platform for sharing video content. Instructors,
 such as those responsible for ICT 1110 and ICT 3020 will routinely share videos of live lectures
 via YouTube. However, a common complaint from students in the relative length of the videos.
